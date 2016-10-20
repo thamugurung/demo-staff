@@ -6,6 +6,7 @@
 <title>Photo Gallery :: Ocean Service Ltd.</title>
 <?php require_once('head.php'); ?>
 <!-- Fancy Box -->
+<!-- Demo changed for Git Hub -->
 <link rel="stylesheet" href="fancybox/jquery.fancybox.css" type="text/css" media="screen" />
 <script type="text/javascript" src="fancybox/jquery.fancybox.pack.js"></script>
 <script type="text/javascript">
