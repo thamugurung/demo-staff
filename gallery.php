@@ -29,6 +29,9 @@
   </div>
 </div>
 <div class="container">
+	<div class="row">
+		<h3> Anothoer new row added here </h3>
+	</div>
   <div class="row">
     <div class="col-sm-8">
       <ul class="gallery-inner clearfix">
