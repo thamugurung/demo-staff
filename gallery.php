@@ -36,12 +36,7 @@
         <li><a class="fancybox" rel="group" title="Sample Photo Gallery for Ocean Service" href="gallery/2.jpg"><img src="gallery/2.jpg" alt="Sample Photo Gallery for Ocean Service" class="img-thumbnail" /></a></li>
         <li><a class="fancybox" rel="group" title="Sample Photo Gallery for Ocean Service" href="gallery/3.jpg"><img src="gallery/3.jpg" alt="Sample Photo Gallery for Ocean Service" class="img-thumbnail" /></a></li>
         <li><a class="fancybox" rel="group" title="Sample Photo Gallery for Ocean Service" href="gallery/4.jpg"><img src="gallery/4.jpg" alt="Sample Photo Gallery for Ocean Service" class="img-thumbnail" /></a></li>
-        <li><a class="fancybox" rel="group" title="Sample Photo Gallery for Ocean Service" href="gallery/5.jpg"><img src="gallery/5.jpg" alt="Sample Photo Gallery for Ocean Service" class="img-thumbnail" /></a></li>
-        <li><a class="fancybox" rel="group" title="Sample Photo Gallery for Ocean Service" href="gallery/6.jpg"><img src="gallery/6.jpg" alt="Sample Photo Gallery for Ocean Service" class="img-thumbnail" /></a></li>
-        <li><a class="fancybox" rel="group" title="Sample Photo Gallery for Ocean Service" href="gallery/7.jpg"><img src="gallery/7.jpg" alt="Sample Photo Gallery for Ocean Service" class="img-thumbnail" /></a></li>
-        <li><a class="fancybox" rel="group" title="Sample Photo Gallery for Ocean Service" href="gallery/8.jpg"><img src="gallery/8.jpg" alt="Sample Photo Gallery for Ocean Service" class="img-thumbnail" /></a></li>
-        <li><a class="fancybox" rel="group" title="Sample Photo Gallery for Ocean Service" href="gallery/9.jpg"><img src="gallery/9.jpg" alt="Sample Photo Gallery for Ocean Service" class="img-thumbnail" /></a></li>
-      </ul>
+       </ul>
     </div>
     <div class="col-sm-4">
     	<ul class="video-block">
